@@ -10,7 +10,7 @@
 
 ### :chart_with_upwards_trend: **Project Overview:** 
 
-#### This project involves cleaning and pre-processing 10,000+ iPhone reviews to ensure accuracy in analysis and conducted Exploratory Data Analysis (EDA) to identify patterns or trends in the data and extracted insights from the data by performing data manipulation, visualization, and statistical analysis using Matplotlib, Seaborn, Plotly, Numpy, and Pandas.
+This project involves cleaning and pre-processing 10,000+ iPhone reviews to ensure accuracy in analysis and conducted Exploratory Data Analysis (EDA) to identify patterns or trends in the data and extracted insights from the data by performing data manipulation, visualization, and statistical analysis using Matplotlib, Seaborn, Plotly, Numpy, and Pandas.
 
 ### 💡 **Results:**
 
@@ -27,5 +27,5 @@
 
 ### :lock: Conclusion: 
 
-#### Performed a sentiment analysis on the iPhone reviews using Natural Language Processing (NLP) techniques such as polarity, objectivity, and VADER model and measured the sentiment of the iPhone reviews using a quantitative scale to determine the overall positive or negative sentiment.
+Performed a sentiment analysis on the iPhone reviews using Natural Language Processing (NLP) techniques such as polarity, objectivity, and VADER model and measured the sentiment of the iPhone reviews using a quantitative scale to determine the overall positive or negative sentiment.
 
